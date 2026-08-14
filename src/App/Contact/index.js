@@ -20,7 +20,7 @@ function Contact() {
                         { languageData.contact.tagline }
                     </p>
                     <div>
-                        <a className="mr-5" href="mailto:eli.lapointe7@gmail.com">
+                        <a className="mr-5" href="mailto:dev@elilapointe.com">
                             <EnvelopeIcon className="w-12 inline-block mb-4 filter-white"/>
                         </a>
                         <a className="mr-5" href="https://www.linkedin.com/in/eli-lapointe/" target="_blank" rel="noopener noreferrer">
