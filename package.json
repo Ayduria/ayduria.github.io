@@ -1,5 +1,5 @@
 {
-  "name": "elilapointe.dev",
+  "name": "elilapointe.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "react-scroll": "^1.8.7",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://elilapointe.dev",
+  "homepage": "https://www.elilapointe.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "set CI=false && react-scripts build",
